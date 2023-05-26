@@ -6,7 +6,7 @@ Disciplina ministrada ao Programa de Pós-Graduação em Geociências da Faculda
 
 **E-mails:** reisandreluis@gmail.com / andre.reis@uerj.br
 
-**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
+> **Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e a coordenação de graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
 
 ## Ementa
 
@@ -24,19 +24,19 @@ Versão oficial do conteúdo da disciplina: [TEG: Introdução à inversão](htt
 * Tipos de regularização
 * Aplicações na Geofísica
 
-## Cronograma
+## Conteúdo didático computacional
 
-**Aviso:** Este cronograma não é definitivo e poderá sofrer mudanças ao longo do curso.
+> **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-Semana | Tema                                 | Código |
-|:------:|:-------------------------------------|:-------:|
-| 0    | Apresentação do curso   |    |
-| 1    | Noções de Álgebra Linear  |  |
-| 2    | Cálculo vetorial  |  |
-| 3    | Problemas inversos lineares  |  |
-| 4    | Regularização - problema linear   |  |
-| 5    | Problemas inversos não-lineares |  |
-| 6    | Regularização - problema não-linear  |  |
+- [x] Introdução ao Python
+  - [] Comandos básicos[['Pythonic_first_steps.ipynb'](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/First_steps_Python/1.%20pythonic_first_steps.ipynb)]
+  - [] Noções de Álgebra Linear em Python
+
+- [x] Exemplos de problemas lineares
+  - [x] Problemas de cinemática
+    - [x] Movimento Uniforme[[`movimento_uniforme.ipynb`](https://github.com/andrelreis/introducao-inversao/tree/2023/1/Content/codes/Linear_inverse_problems/kinematic_problems)]
+    - [x] Movimento Uniformemente Variado[[`movimento_uniforme_acelerado.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/kinematic_problems/2.movimento_uniforme_acelerado.ipynb)]
+  - [x] Estimativa da direção de corpos esféricos[[`magdir_sphere_estimation.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/magnetization_direction_sphere/1.%20magdir_esfera_estimation.ipynb)]
 
 ## Referências bibliográficas
 
