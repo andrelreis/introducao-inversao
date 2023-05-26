@@ -6,7 +6,7 @@ Disciplina ministrada ao Programa de Pós-Graduação em Geociências da Faculda
 
 **E-mails:** reisandreluis@gmail.com / andre.reis@uerj.br
 
->>>>> **Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e a coordenação de graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
+>>>>>**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e a coordenação de graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
 
 ## Ementa
 
@@ -26,7 +26,7 @@ Versão oficial do conteúdo da disciplina: [TEG: Introdução à inversão](htt
 
 ## Conteúdo didático computacional
 
->>>>> **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
+>>>>>**Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
 - [x] Introdução ao Python
   - [x] Comandos básicos[[`pythonic_first_steps.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/First_steps_Python/1.%20pythonic_first_steps.ipynb)]
