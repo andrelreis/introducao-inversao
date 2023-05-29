@@ -37,6 +37,9 @@ Versão oficial do conteúdo da disciplina: [TEG: Introdução à inversão](htt
     - [x] Movimento Uniforme[[`movimento_uniforme.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/kinematic_problems/1.movimento_uniforme.ipynb)]
     - [x] Movimento Uniformemente Variado[[`movimento_uniforme_acelerado.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/kinematic_problems/2.movimento_uniforme_acelerado.ipynb)]
   - [x] Estimativa da direção de corpos esféricos[[`magdir_sphere_estimation.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/magnetization_direction_sphere/1.%20magdir_esfera_estimation.ipynb)]
+  - [x] Camada equivalente
+    - [x] Camada magnética com Norma mínima[[`magnetic_equivalent_layer_Tik0.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/equivalent_layer/1.%20magnetic_equivalent_layer_Tik0.ipynb)]
+    - [x] Camada magnética com Suavidade[[`magnetic_equivalent_layer_Tik1.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/equivalent_layer/2.%20magnetic_equivalent_layer_Tik1.ipynb)]
 
 ## Referências bibliográficas
 
