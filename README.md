@@ -28,11 +28,11 @@ Versão oficial do conteúdo da disciplina: [TEG: Introdução à inversão](htt
 
 >**Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [x] Introdução ao Python
-  - [x] Comandos básicos[[`pythonic_first_steps.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/First_steps_Python/1.%20pythonic_first_steps.ipynb)]
-  - Noções de Álgebra Linear em Python
+- Introdução ao Python
+  - [ ] Comandos básicos[[`pythonic_first_steps.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/First_steps_Python/1.%20pythonic_first_steps.ipynb)]
+  - [ ] Noções de Álgebra Linear em Python
 
-- [x] Exemplos de problemas lineares
+- Exemplos de problemas lineares
   - [x] Problemas de cinemática
     - [x] Movimento Uniforme[[`movimento_uniforme.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/kinematic_problems/1.movimento_uniforme.ipynb)]
     - [x] Movimento Uniformemente Variado[[`movimento_uniforme_acelerado.ipynb`](https://github.com/andrelreis/introducao-inversao/blob/2023/1/Content/codes/Linear_inverse_problems/kinematic_problems/2.movimento_uniforme_acelerado.ipynb)]
