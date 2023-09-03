@@ -41,19 +41,19 @@ Versão oficial do conteúdo da disciplina: [TEG: Introdução à inversão](htt
     - [x] Camada magnética com Norma mínima[[`magnetic_equivalent_layer_Tik0.ipynb`](Content/codes/Linear_inverse_problems/equivalent_layer/1.magnetic_equivalent_layer_Tik0.ipynb)]
     - [x] Camada magnética com Suavidade[[`magnetic_equivalent_layer_Tik1.ipynb`](Content/codes/Linear_inverse_problems/equivalent_layer/2.magnetic_equivalent_layer_Tik1.ipynb)]
 
-    - Exemplos de problemas não-lineares
-      - Métodos determinísticos
-        - [x] Função Rosenbrock
-          - [x] Steepest descent [[`SD_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/SD_rosenbrock.ipynb)]
-          - [x] Método de Newton[[`Newton_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/Newton_rosenbrock.ipynb)]
-          - [x] Método de Gauss-Newton[[`GN_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/GN_rosenbrock.ipynb)]
-          - [x] Método de Levenberg-Marquardt[[`LM_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/GN_rosenbrock.ipynb)]
-        - [x] Determinação epicentral simples[[`simple_epicenter_determination.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Epicentral_determination/simple_epicenter_estimation.ipynb)]
-        - [x] Estimativa 2D do relevo de um embasamento[[`2D_basement_estimation.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Basement_estimation/1.2D_basement_estimation.ipynb)]
-      - Métodos Heurísticos
-        - [x] Função Rastrigin
-          - [x] Simulated Annealing[[`SA_rastrigin_function.ipynb`](Content/codes/Non_linear_problems/Heuristic_method/SA_rastrigin_function.ipynb)]
-          - [x] Genetic Algorithm[[`AG_rastrigin_function.ipynb`](Content/codes/Non_linear_problems/Heuristic_method/AG_rastrigin_function.ipynb)]
+- Exemplos de problemas não-lineares
+  - Métodos determinísticos
+    - [x] Função Rosenbrock
+      - [x] Steepest descent [[`SD_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/SD_rosenbrock.ipynb)]
+      - [x] Método de Newton[[`Newton_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/Newton_rosenbrock.ipynb)]
+      - [x] Método de Gauss-Newton[[`GN_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/GN_rosenbrock.ipynb)]
+      - [x] Método de Levenberg-Marquardt[[`LM_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/GN_rosenbrock.ipynb)]
+    - [x] Determinação epicentral simples[[`simple_epicenter_determination.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Epicentral_determination/simple_epicenter_estimation.ipynb)]
+    - [x] Estimativa 2D do relevo de um embasamento[[`2D_basement_estimation.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Basement_estimation/1.2D_basement_estimation.ipynb)]
+  - Métodos Heurísticos
+    - [x] Função Rastrigin
+      - [x] Simulated Annealing[[`SA_rastrigin_function.ipynb`](Content/codes/Non_linear_problems/Heuristic_method/SA_rastrigin_function.ipynb)]
+      - [x] Genetic Algorithm[[`AG_rastrigin_function.ipynb`](Content/codes/Non_linear_problems/Heuristic_method/AG_rastrigin_function.ipynb)]
 
 ## Referências bibliográficas
 
