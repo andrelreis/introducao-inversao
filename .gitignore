@@ -6,7 +6,7 @@ manuscript/figures/*-eps-converted-to.pdf
 manuscript/output/
 .env
 
-*/.ipynb_checkpoints/
+*.ipynb_checkpoints
 *~
 *.pptx
 *.pyc
