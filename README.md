@@ -36,10 +36,10 @@ Versão oficial do conteúdo da disciplina: [TEG: Introdução à inversão](htt
   - [x] Problemas de cinemática
     - [x] Movimento Uniforme[[`movimento_uniforme.ipynb`](Content/codes/Linear_inverse_problems/kinematic_problems/1.movimento_uniforme.ipynb)]
     - [x] Movimento Uniformemente Variado[[`movimento_uniforme_acelerado.ipynb`](Content/codes/Linear_inverse_problems/kinematic_problems/2.movimento_uniforme_acelerado.ipynb)]
-  - [x] Estimativa da direção de corpos esféricos[[`magdir_sphere_estimation.ipynb`](Content/codes/Linear_inverse_problems/magnetization_direction_sphere/1. magdir_esfera_estimation.ipynb)]
+  - [x] Estimativa da direção de corpos esféricos[[`magdir_sphere_estimation.ipynb`](Content/codes/Linear_inverse_problems/magnetization_direction_sphere/1.magdir_esfera_estimation.ipynb)]
   - [x] Camada equivalente
-    - [x] Camada magnética com Norma mínima[[`magnetic_equivalent_layer_Tik0.ipynb`](Content/codes/Linear_inverse_problems/equivalent_layer/1. magnetic_equivalent_layer_Tik0.ipynb)]
-    - [x] Camada magnética com Suavidade[[`magnetic_equivalent_layer_Tik1.ipynb`](Content/codes/Linear_inverse_problems/equivalent_layer/2. magnetic_equivalent_layer_Tik1.ipynb)]
+    - [x] Camada magnética com Norma mínima[[`magnetic_equivalent_layer_Tik0.ipynb`](Content/codes/Linear_inverse_problems/equivalent_layer/1.magnetic_equivalent_layer_Tik0.ipynb)]
+    - [x] Camada magnética com Suavidade[[`magnetic_equivalent_layer_Tik1.ipynb`](Content/codes/Linear_inverse_problems/equivalent_layer/2.magnetic_equivalent_layer_Tik1.ipynb)]
 
     - Exemplos de problemas não-lineares
       - Métodos determinísticos
@@ -47,7 +47,9 @@ Versão oficial do conteúdo da disciplina: [TEG: Introdução à inversão](htt
          - [x]Steepest descent [[`SD_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/SD_rosenbrock.ipynb)]
          - [x] Método de Newton[[`Newton_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/Newton_rosenbrock.ipynb)]
          - [x] Método de Gauss-Newton[[`GN_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/GN_rosenbrock.ipynb)]
-         - [x] Método de Levenberg-Marquardt[[`LM_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/GN_rosenbrock.ipynb)] 
+         - [x] Método de Levenberg-Marquardt[[`LM_rosenbrock.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Rosenbrock_function/GN_rosenbrock.ipynb)]
+        - Determinação epicentral simples[[`simple_epicenter_determination.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Epicentral_determination/simple_epicenter_estimation.ipynb)]
+        - Estimativa 2D do relevo de um embasamento[[`2D_basement_estimation.ipynb`](Content/codes/Non_linear_problems/Deterministic_methods/Basement_estimation/1. 2D_basement_estimation.ipynb)]
 
 ## Referências bibliográficas
 
